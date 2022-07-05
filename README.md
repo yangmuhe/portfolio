@@ -1,5 +1,5 @@
 # Portfolio
 
-Works during undergraduate and Master's studies.
+Works during my undergraduate and Master's studies.
 
 https://yangmuhe.github.io/portfolio/
