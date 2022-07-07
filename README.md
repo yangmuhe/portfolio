@@ -1,5 +1,5 @@
 # Portfolio
 
-Works during my undergraduate and Master's studies.
+Design works during my Master's and undergraduate studies.
 
 https://yangmuhe.github.io/portfolio/
